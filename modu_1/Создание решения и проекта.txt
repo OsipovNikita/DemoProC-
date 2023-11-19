@@ -1,0 +1,10 @@
+1. —оздайте в текущем каталоге файл решени€:
+dotnet new sln -n SimpleCSharpConsoleApp -o .\VisualStudioCode
+Ёто создает новый файл решени€ с именем (-n) SimpleCSharpConsoleApp в подкаталоге (текущий каталог) с именем VisualStudioCode
+
+2. —оздайте новое консольное приложение C#9/.NET 5 (-f net5.0) с именем (-n) SimpleCSharpConsoleApp 
+и требуемой версией €зыка в подкаталоге (-o) с тем же именем:
+dotnet new console -lang c# -n SimpleCSharpConsoleApp -o .\VisualStudioCode\SimpleCSharpConsoleApp -f net5.0 --langVersion latest
+
+3. ƒобавьте вновь созданный проект в решение с помощью следующей команды:
+dotnet sln .\VisualStudioCode\SimpleCSharpConsoleApp.sln add .\VisualStudioCode\SimpleCSharpConsoleApp
