@@ -15,7 +15,7 @@ namespace SimpleCSharpConsoleApp
                 return -1;
         }
 
-        static int Add(int x, int y) // локальная функция
+        static int Add(int x, int y) 
          {
                 return x + y;
         }
@@ -41,7 +41,7 @@ namespace SimpleCSharpConsoleApp
         }
 
 
-        private static void Process(string[] lines, string mark)
+        private static void Process(string[] lines, string mark) // две задачи в одном методе!
         {
             foreach (var line in lines)
             {
