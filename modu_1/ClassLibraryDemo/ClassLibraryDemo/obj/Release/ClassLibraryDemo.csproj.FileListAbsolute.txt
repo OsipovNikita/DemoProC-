@@ -1,0 +1,5 @@
+C:\Documents and Settings\HP Compaq\My Documents\for lean\ClassLibraryDemo\ClassLibraryDemo\bin\Release\ClassLibraryDemo.dll
+C:\Documents and Settings\HP Compaq\My Documents\for lean\ClassLibraryDemo\ClassLibraryDemo\bin\Release\ClassLibraryDemo.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\ClassLibraryDemo\ClassLibraryDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\My Documents\for lean\ClassLibraryDemo\ClassLibraryDemo\obj\Release\ClassLibraryDemo.dll
+C:\Documents and Settings\HP Compaq\My Documents\for lean\ClassLibraryDemo\ClassLibraryDemo\obj\Release\ClassLibraryDemo.pdb
