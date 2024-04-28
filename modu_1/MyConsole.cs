@@ -6,7 +6,7 @@ using System.Text;
 namespace MyConsole
 {
     /// <summary>
-    /// Этот класс содержит Main  и вывод в разноцветную консоль
+    /// Main and output in color Console
     /// </summary>
     class Program
     {
